@@ -4,7 +4,7 @@
 
    'summary': """
     Approve according to HR personnel structure""",
-
+   'license': 'LGPL-3',
    'description': """
     Approve according to HR personnel structure
    """,
@@ -13,7 +13,7 @@
    'website': "http://www.einfo-tech.com",
    'category': 'Tools',
    'version': '1.0',
-
+   'images': ['static/description/10.png'],
    'depends': ['base','hr','hr_org_chart'],
 
    'data': [
