@@ -12,7 +12,7 @@
    'author': "HSP",
    'website': "http://www.einfo-tech.com",
    'category': 'Tools',
-   'version': '1.0',
+   'version': '12.0.1.1.3',
    'images': ['static/description/10.png'],
    'depends': ['base','hr','hr_org_chart'],
 
