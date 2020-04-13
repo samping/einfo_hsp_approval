@@ -6,7 +6,7 @@
     Approve according to HR personnel structure""",
 
    'description': """
-    
+    Approve according to HR personnel structure
    """,
 
    'author': "HSP",
