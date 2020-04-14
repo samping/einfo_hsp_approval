@@ -13,7 +13,7 @@
    'website': "http://www.einfo-tech.com",
    'category': 'Tools',
    'version': '12.0.1.1.3',
-   'images': ['static/description/10.png'],
+   'images': ['static/description/11.gif'],
    'depends': ['base','hr','hr_org_chart'],
 
    'data': [
